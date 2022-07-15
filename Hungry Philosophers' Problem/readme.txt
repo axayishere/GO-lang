@@ -1,5 +1,5 @@
-## AOS Programming project 2
-## Nisamuddin Mohammad - L20502008
+
+
 
 I have used sigma23[140.158.128.21] for server and printer
 and [140.158.128.15],    [140.158.128.12],    [140.158.130.213],    [140.158.131.163] for fork and philosopher
